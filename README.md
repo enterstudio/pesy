@@ -279,3 +279,4 @@ the e2e scripts.
   - It expects an array of strings, each string being a separate line in the
     generated config.
 - Support new properties `modes` for binaries and libraries `list(string)`.
+
